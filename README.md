@@ -1,7 +1,7 @@
 ## 英文单词处理工具 v1.5
 =====================
 ### 功能
-从txt、markdown、PDF或EPUB文档中提取去重后的英文单词排序，并统计总词数和某单词出现的次数，可选输出为txt或excel（包括CSV）。
+从txt、markdown、PDF或EPUB文档中提取去重后的英文单词并根据词频排序，能统计总词数和某单词出现的词频，可选输出为txt或excel（包括CSV）。
 ---
 使用方法：
 1. 双击运行"word_count_gui.exe"或者python环境下双击“word_count_gui.py”
